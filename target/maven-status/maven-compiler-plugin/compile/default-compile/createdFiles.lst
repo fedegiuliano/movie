@@ -1,0 +1,7 @@
+com\example\movies\backendController\PeliculasController.class
+com\example\movies\backendResponseDto\MovieDto.class
+com\example\movies\backendServiceImpl\PeliculaServiceImpl.class
+com\example\movies\backendService\IPeliculaService.class
+com\example\movies\MoviesApplication.class
+com\example\movies\backendResponseDto\PeliculasResponseDto.class
+com\example\movies\backendResponseDto\PeliculaResponseDto.class
